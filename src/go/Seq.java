@@ -1,0 +1,1 @@
+/home/oldfeel/gopath/src/golang.org/x/mobile/bind/java/Seq.java
